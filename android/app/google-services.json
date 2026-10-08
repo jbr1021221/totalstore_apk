@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881024096188",
+    "project_id": "totalshop-5cdaa",
+    "storage_bucket": "totalshop-5cdaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881024096188:android:d93fbd9caeeffa3565bdb9",
+        "android_client_info": {
+          "package_name": "com.ivivelabs.totalshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWlIDwuk05W8egXdGW2yC16tfLOucyW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
